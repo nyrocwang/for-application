@@ -1,0 +1,8 @@
+LIBRARY icp
+EXPORTS
+icpInitialize
+icpInitializeWithHandlers
+icpTerminate
+icpPrintStackTrace
+mlxIcp
+
